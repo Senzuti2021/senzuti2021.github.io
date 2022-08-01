@@ -1,0 +1,192 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/f0a7bb69f00056fcaefd2ea7403a17a33c61241d495a56520e3ab3a2f3267798ee01a71d22a63253bab925b65c902208d0023da09553df240cf820_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 200px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 400;
+  background-image: none;
+  margin: 54px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 115px;
+  height: 115px;
+  margin: -106px auto 0 118px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 115px;
+  height: 115px;
+  margin: -115px 118px 31px auto;
+  padding: 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 74px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-right: 74px;
+  }
+}.u-block-f3bd-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-f3bd-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-f3bd-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-2-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Eo9SwT0W4AUkXAa.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2-1 .u-group-elements-1 {
+  width: 446px;
+  min-height: 145px;
+  margin: 543px auto 60px 112px;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2-1 .u-text-2 {
+  margin: 7px 0 0;
+}
+
+.u-section-2-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 21px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-2-1 .u-group-elements-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2-1 .u-group-elements-1 {
+    margin-left: 94px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-2-1 .u-group-elements-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/BestThingsToDoinCoxsBazar.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2-2 .u-group-elements-1 {
+  width: 446px;
+  min-height: 145px;
+  margin: 543px auto 60px 112px;
+}
+
+.u-section-2-2 .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2-2 .u-text-2 {
+  margin: 7px 0 0;
+}
+
+.u-section-2-2 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 21px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-2-2 .u-group-elements-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2-2 .u-group-elements-1 {
+    margin-left: 94px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-2-2 .u-group-elements-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
